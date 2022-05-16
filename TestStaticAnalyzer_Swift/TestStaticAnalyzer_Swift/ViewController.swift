@@ -26,6 +26,7 @@ class ViewController: UIViewController {
             print(i)
             isloop1 = false
         }
+        print(i)
         
 //        var row:Int = 0
 //        var max:Int = 10
